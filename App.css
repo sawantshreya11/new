@@ -1,0 +1,49 @@
+/* Header Styles */
+.header {
+  background-color: #0077b6;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+/* About Section Styles */
+.aboutSection {
+  text-align: center;
+  padding: 20px;
+  background-color: #edf2f4;
+}
+
+/* Contact Section Styles */
+.contactSection {
+  text-align: center;
+  padding: 20px;
+  background-color: #0077b6;
+  color: #fff;
+}
+
+/* Courses Section Styles */
+.coursesSection {
+  text-align: center;
+  padding: 20px;
+}
+
+.coursesContainer {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.courseBox {
+  background-color: #ff6b81;
+  color: #fff;
+  padding: 20px;
+  width: 150px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
+}
